@@ -1,10 +1,11 @@
 # PORTOFOLIO-
 
-# 🌟 Portfólio de [Engrácia Jorge]
+# 🌟 Portfólio de Engrácia Jorge
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, habilidades e experiências como desenvolvedora.
 Este espaço foi criado para mostrar minha evolução, criatividade e paixão por tecnologia.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4bdeb512-749a-495b-b5bf-5b3301cc42cb" />
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -33,14 +34,6 @@ Gosto de aprender coisas novas e transformar ideias em código funcional.
 | **Site de Portfólio** | Página pessoal com design responsivo | HTML, CSS, JS | [🔗 Ver projeto](#) |
 | **API de Tarefas** | Backend para gerenciar tarefas | Node.js, Express | [🔗 Ver projeto](#) |
 | **Clone do Netflix** | Interface com catálogo de filmes | React, Firebase | [🔗 Ver projeto](#) |
-
----
-
-## 🖼️ Imagem de Capa
-
-<p align="center">
-  <img src="images/capa-portfolio.png" alt="Imagem de capa do portfólio" width="600"/>
-</p>
 
 ---
 
